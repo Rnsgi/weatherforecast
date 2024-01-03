@@ -144,7 +144,7 @@ function App() {
             
             <UTCDatetime />
             <Link
-              href="https://github.com/imaginnovate"
+              href="https://github.com/Rnsgi/weatherforecast.git"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
